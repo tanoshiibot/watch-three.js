@@ -71,7 +71,7 @@ let init = () => {
     It's pretty easy to animate this kind of figure. Don't hesitate to change the values and test the different animations.
     */
     
-    /*
+    
     let i = 0;
     function animate() {
         requestAnimationFrame( animate );
@@ -90,7 +90,7 @@ let init = () => {
     };
 
     animate();
-    */
+    
 
 }
 
