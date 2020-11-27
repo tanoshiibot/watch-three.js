@@ -27,7 +27,7 @@ At first, yes, I thought it was really hard to learn. I didn't understand why I 
 
 * https://discoverthreejs.com/book Another introduction to three.js, there's also an Hello Cube ;
 
-* https://www.udemy.com/course/3d-programming-with-javascript-and-the-threejs-3d-library/ Udemy lessons that I wanted to take (but didn't).
+* https://www.udemy.com/course/3d-programming-with-javascript-and-the-threejs-3d-library/ Udemy lessons that I wanted to take (but didn't (but you should if you think it's worth because it most certainly is)).
 
 ### Thanks
 
