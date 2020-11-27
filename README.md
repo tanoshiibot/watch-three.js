@@ -31,7 +31,7 @@ At first, yes, I thought it was really hard to learn. I didn't understand why I 
 
 * https://github.com/mrdoob/three.js three.js repo on github (three.js is open source ~).
 
-### Thanks
+### Thanks 💜
 
 * Thanks to [Joffrey Bienvenu]( http://joffreybvn.be/) for helping me with three.js ;
 * Thanks to my friends who had to listen to my screams and tears of joy as I was able to load a cube with Cirno textures ;
