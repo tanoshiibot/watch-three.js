@@ -17,7 +17,7 @@ The Hello Cube is the first thing I did following three.js documentation. A lot 
 
 ## Hard to learn ?
 
-At first, yes, I thought it was really hard to learn. I didn't understand why I couldn't load a picture as texture, I couldn't load a 3D model, etc. I was losing hope as I was getting more and more lost in the documentation. I wanted to buy Udemy lessons, but was sad that I couldn't just learn with the documentation as I did (I'm not saying Udemy lessons are bad, I would recommend you to take them if you like this way of learning). Joffrey Bienvenu, a Turing (IA department of BeCode) in my group for the project helped me understand three.js a little bit, and I beginned to understand more and more as I read the documentation. 
+At first, yes, I thought it was really hard to learn. I didn't understand why I couldn't load a picture as texture, I couldn't load a 3D model, etc. I was losing hope as I was getting more and more lost in the documentation. I wanted to buy Udemy lessons, but was sad that I couldn't just learn with the documentation as I did (I'm not saying Udemy lessons are bad, I would recommend you to take them if you like this way of learning). Joffrey Bienvenu, a Turing (IA department of BeCode) in my group for the project helped me understand three.js a little bit, and I beginned to understand more and more as I read the documentation. I don't think it's hard at all. Take your time to understand what you are doing, and don't go all-out on a big project the first week : learn slowly how to make cubes, and how to apply textures on them. Difficult stuff is for later.
 
 ### Sources
 
