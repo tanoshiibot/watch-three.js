@@ -29,6 +29,8 @@ At first, yes, I thought it was really hard to learn. I didn't understand why I 
 
 * https://www.udemy.com/course/3d-programming-with-javascript-and-the-threejs-3d-library/ Udemy lessons that I wanted to take (but didn't (but you should if you think it's worth because it most certainly is)).
 
+* https://github.com/mrdoob/three.js three.js repo on github (three.js is open source ~).
+
 ### Thanks
 
 * Thanks to [Joffrey Bienvenu]( http://joffreybvn.be/) for helping me with three.js ;
